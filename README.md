@@ -6,3 +6,9 @@
 ### without making changes on the original repository that is on github
 ### To make changes on github we can use the git add. command and git commit and also git push to push the changes on the repository. 
 ### The last step for this homework is to deploy the repository and copy the link of the repository and also the link where the assignment is deployed. 
+
+##ScreenShot
+![alt text](<assets/images/Screenshot 2024-02-08 182554.png>)
+
+### Deployed link
+https://mynameisandreee.github.io/Homework1/
